@@ -1,0 +1,35 @@
+form a {
+  margin-left: 5px;
+}
+
+.padded {
+  margin-left: 5px;
+}
+
+.title {
+  margin-top: 10px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.classical-rect {
+  margin-top: 5px;
+  border-radius: 1px;
+  color: black
+}
+
+.beautiful-rect {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding: 10px;
+  border: 3px solid #ddd;
+  border-radius: 10px;"
+}
+
+.list-group-item {
+  cursor: pointer;
+}
+
+.list-group-item:hover {
+  background-color: #eee;
+}
